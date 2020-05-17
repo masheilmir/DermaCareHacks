@@ -2,7 +2,7 @@
 
 # To run the app through flask virtual environment follow these steps:
   1) Ensure you are in the DermaCare directory
-  2) Run the following commans in your terminal:
+  2) Run the following commands in your terminal:
   
   
   1. cd into directory with main.py
