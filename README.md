@@ -25,3 +25,10 @@
 # To access through a link copy and paste the following into your browser
 
 https://ruhacks-277409.nn.r.appspot.com/
+
+# Collaborators:
+
+Daniel Khan
+Masheil Mir
+Fatima Rahman
+Omar Patel
