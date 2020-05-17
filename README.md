@@ -28,7 +28,7 @@ https://ruhacks-277409.nn.r.appspot.com/
 
 # Collaborators:
 
-Daniel Khan
-Masheil Mir
-Fatima Rahman
+Daniel Khan,
+Masheil Mir,
+Fatima Rahman,
 Omar Patel
