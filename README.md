@@ -22,10 +22,6 @@
       
    Then, open localhost:5000 on your browser to access the website.
 
-# To access through a link copy and paste the following into your browser
-
-https://ruhacks-277409.nn.r.appspot.com/
-
 # Collaborators:
 
 Daniel Khan,
